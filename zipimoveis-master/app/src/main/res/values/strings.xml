@@ -1,0 +1,83 @@
+<resources>
+
+    <!--Title Activitis and Fragments-->
+    <string name="app_name">ZipImoveis</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_main_activity">ZIP</string>
+    <string name="title_favoritos">Favoritos</string>
+
+    <!--Buttons-->
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_send">Enviar</string>
+
+    <!--Lista Imoveis-->
+    <string name="title_error_dialog">Atenção...</string>
+    <string name="title_warning_dialog">Atenção...</string>
+
+    <string name="txt_endereco">%1$s - %2$s</string>
+    <string name="txt_endereco_cep">CEP : %1$s - %2$s</string>
+    <string name="txt_area_util">, %1$s m\u00B2</string>
+
+    <string name="msg_favorite_success_removed">Imovel removido dos Favoritos</string>
+    <string name="msg_favorite_success_added">Imovel adicionado aos Favoritos</string>
+    <string name="msg_error_generic">Houve um erro inesperado. Tente novamente</string>
+    <string name="msg_empty_favoritos">Nenhum Imovel adicionado como Favorito</string>
+    <string name="preference_file_key">lista_imoveis</string>
+
+    <string name="msg_required_field">%1$s é campo obrigatório</string>
+
+    <string name="field_nome">Nome</string>
+    <string name="field_email">E-mail</string>
+    <string name="field_ddd">DDD</string>
+    <string name="field_telefone">Telefone</string>
+
+    <plurals name="txt_dormitorios">
+        <item quantity="one">%d dorm</item>
+        <item quantity="other">%d dorms</item>
+    </plurals>
+
+    <plurals name="txt_suites">
+        <item quantity="one">, %d suíte</item>
+        <item quantity="other">, %d suítes</item>
+    </plurals>
+
+    <plurals name="txt_vagas">
+        <item quantity="one">, %d vaga</item>
+        <item quantity="other">, %d vagas</item>
+    </plurals>
+
+    <string name="msg_loading_imoveis">Buscando Imoveis</string>
+    <string name="msg_loading_imovel">Buscando Imovel</string>
+    <string name="title_dialog_contato">Enviar Mensagem</string>
+    <string name="field_message">Mensagem</string>
+    <string name="title_success_contato">Contato Enviado!</string>
+    <string name="msg_success_contato">Em breve responderemos seu contato</string>
+    <string name="field_valor_venda">Valor de Venda</string>
+    <string name="field_condominio">Condomínio</string>
+    <string name="field_area">ÁREA(M²)</string>
+    <string name="vaga_s">field_vaga</string>
+    <string name="field_suite">SUÍTE(S)</string>
+    <string name="field_dorms">DORMS.</string>
+    <string name="title_descricao">Descrição</string>
+    <string name="field_caracteristicas">Características</string>
+    <string name="txt_caracteristicas">Imóvel : %1$s</string>
+    <string name="txt_caracteristicas_comum">Áreas Comuns : %1$s</string>
+    <string name="field_anunciante">Dados do anunciante</string>
+    <string name="field_vaga">VAGA(S)</string>
+
+    <string name="btn_facebook">Entrar com Facebook</string>
+
+
+    <!--Facebook SDK-->
+    <string name="facebook_application_id">228488071022423</string>
+    <string name="fb_login_protocol_scheme">fb228488071022423</string>
+    <string name="btn_google_account">Entrar conta Google</string>
+    <string name="salvar">Salvar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

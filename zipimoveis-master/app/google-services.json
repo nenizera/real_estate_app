@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254828869254",
+    "firebase_url": "https://zipimoveis-e6ecc.firebaseio.com",
+    "project_id": "zipimoveis-e6ecc",
+    "storage_bucket": "zipimoveis-e6ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254828869254:android:4b406f2cf6f90ae3",
+        "android_client_info": {
+          "package_name": "luishenrique.zipimoveis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254828869254-et8cdrfr5unu89b2a09hqfsfjsr64atn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "luishenrique.zipimoveis",
+            "certificate_hash": "542b8e22521e203e8dcc0d377ad925c196f9c7dd"
+          }
+        },
+        {
+          "client_id": "254828869254-4h17rpc25ctakqrln5q1id6gejprbh4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtG9K-oWOVQNjqLLUBHOHuqVaFx7KB7RI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254828869254-4h17rpc25ctakqrln5q1id6gejprbh4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

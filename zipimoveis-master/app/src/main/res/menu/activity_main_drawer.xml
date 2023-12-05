@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_lista"
+            android:icon="@drawable/ic_home_black_48dp"
+            android:title="Lista Imoveis" />
+
+        <item
+            android:id="@+id/nav_cadastro"
+            android:icon="@drawable/ic_control_point_black_24dp"
+            android:title="Cadastrar Imovel" />
+
+        <item
+            android:id="@+id/nav_favoritos"
+            android:visible="false"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Favoritos" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_delete_account"
+            android:icon="@drawable/ic_delete_account"
+            android:title="Remover Conta" />
+
+        <item android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_exit_to_app_24dp"
+            android:title="Sair" />
+    </group>
+</menu>

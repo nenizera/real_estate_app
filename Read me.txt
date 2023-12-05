@@ -1,0 +1,66 @@
+ENGLISH
+
+To log in as admin
+
+email: admin@zipimoveis.com
+password: 123456
+
+NOTE: this profile allows you to remove properties
+
+password 123456
+certificate
+first name : luis henrique
+
+*The apk is in the attached zipped file along with the backend file (node ​​js)
+
+*To test on a PC download Android Studio 3 or higher and install a simulator. Note: Will not run on Android Stuido lower than 3
+
+*Access the bank in Firebase:
+
+Email Login: israelermel@gmail.com
+Password Login: luy#%(@&!110476
+Project: luishenrique.zipimoveis
+
+*Information about the structure of the App:
+
+- I used Java 8 with the reactive programming rxJava library
+
+- For the backend I used Firebird cloud functions to create the cities and neighborhoods (sources made in NodeJS)
+
+- When saving a property, the cloud functions takes the city and the neighborhood and has it and adds it to the cities node.
+
+- When a user creation event is done via Facebook, Google or by email it is added to a specific User Node of the System.
+
+- In the registration part, only the Admin can remove the property
+
+
+PORTUGUESE
+
+Para logar como admin
+
+email : admin@zipimoveis.com
+senha : 123456
+
+OBS: ester perfil permite remover imoveis 
+
+senha 123456
+certificado
+first name : luis henrique
+
+*A apk está no arquivo zipado em anexo junto com o arquivo do backend (node js)
+
+*Para testar em um PC baixar o Android Studio 3 ou mais atual e instalar um simulador. Obs.: Não irá rodar em Android Stuido inferior ao 3
+
+*Acessar o banco no Firebase:
+
+E-mail Login: israelermel@gmail.com 
+Senha Login: luy#%(@&!110476
+Projeto: luishenrique.zipimoveis
+
+*Informações sobre a estrutura do App:
+
+- Utilizei o Java 8 com a biblioteca rxJava de proramação reativa
+- Para o backend utilizei Firebird cloud functions para criar as cidades e bairros (fontes feitos em NodeJS)
+- Ao salvar um imóvel o cloud functions pega a cidade e o bairro e possui e adiciona no Nó de cidades. 
+- Quando um evento de criação de usuário é feito através do Facebook, Google ou por e-mail é adicionado em um Nó específico  de usuários do Sistema.
+- Na parte de cadastro apenas o Admin pode remover o imóvel
